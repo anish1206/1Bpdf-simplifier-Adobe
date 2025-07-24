@@ -1,0 +1,15 @@
+# Ignore the locally downloaded model files
+model/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Ignore local input/output folders if you wish
+# This keeps the repository extra clean.
+input/
+output/
